@@ -4,3 +4,7 @@ def hello_from_a():
 def feature_a1():
     return "Feature A1"
 
+def feature_a2():
+    return "Feature A2"
+
+
