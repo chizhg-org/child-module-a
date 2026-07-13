@@ -11,3 +11,6 @@ def feature_a3():
 
 def feature_a4():
     return "Feature A4"
+
+def feature_a5():
+    return "Feature A5"
