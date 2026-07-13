@@ -6,5 +6,5 @@ def feature_a1():
 
 def feature_a2():
     return "Feature A2"
-
-
+def feature_a3():
+    return "Feature A3"
